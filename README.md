@@ -33,7 +33,7 @@ Running our Python code on the data file, we were able to obtain the following r
     - Arapahoe
 * The total number of votes and percentage of votes cast in each county is shown in the print readout of our Python program as seen below:
 
-![Printout of votes by county.](https://github.com/IJG-DR/Election_Analysis/blob/b1024a385007b8fffb418e2f9b0158728fa7d1d1/Resources/Votes_by_County.png)
+![Printout of votes by county.](Resources/Votes_by_County.png)
 
 * With 82.8% of the total votes, Denver was the county with the largest number of votes.
 * Three candidates ran for election: 
@@ -42,7 +42,7 @@ Running our Python code on the data file, we were able to obtain the following r
     - Raymon Anthony Doane
 * The total number of votes and percentages cast for each candidate is shown in the print readout of our Python program as shown below:
 
-![Printout of votes by candidate.](https://github.com/IJG-DR/Election_Analysis/blob/b1024a385007b8fffb418e2f9b0158728fa7d1d1/Resources/Candidate_Results.png)
+![Printout of votes by candidate.](Resources/Candidate_Results.png)
 
 * With 272,892 votes representing 73.8% of total votes cast, Diana DeGette was the winning candidate.
 
@@ -51,7 +51,7 @@ The final report produced by our code printed as follows:
 ![Printout of final results.](Resources/Final_election_results.png)
 
 
-## Election-Audit Summary: 
+## Election Audit Summary: 
 
 By automating the election audit with Python code, it is easy to apply the same methodology to future elections or to other elections, providing for an efficient and timely process. With minor modifications, the code can be used to capture other important data or to handle a different set of conditions.
 
