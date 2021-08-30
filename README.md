@@ -48,7 +48,7 @@ Running our Python code on the data file, we were able to obtain the following r
 
 The final report produced by our code printed as follows:
 
-
+![Printout of final results.](Resources/Final_election_results.png)
 
 
 ## Election-Audit Summary: 
