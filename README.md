@@ -46,9 +46,13 @@ Running our Python code on the data file, we were able to obtain the following r
 
 * With 272,892 votes representing 73.8% of total votes cast, Diana DeGette was the winning candidate.
 
-The final report produced by our code printed as follows:
+The final report produced by our code printed in terminal as follows:
 
-![Printout of final results.](Resources/Final_election_results.png)
+![Printout in terminal of final results.](Resources/Terminal_printout.png)
+
+And the information was recorded in a text file as follows:
+
+![Text file of final results.](Resources/Final_election_results.png)
 
 
 ## Election Audit Summary: 
